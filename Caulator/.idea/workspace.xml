@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1042193-5cb4-480b-9daf-760204d2ef71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewAp/app/src/main/res/drawable-v24/co_to_quoc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewAp/app/src/main/res/drawable-v24/ptitlogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewAp/app/src/main/res/layout/tesst.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tailieu/Linear Layout.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/androidTest/java/com/example/testapp/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/java/com/example/testapp/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/app/src/test/java/com/example/testapp/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Code for fun" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/game/PytracingMaze" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/game/RayTracingMazeCppOlcPge" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tài liệu trên lớp/CNTT - kì 1 năm 3/Hướng đối tượng/New folder/Bai16-20201026T121224Z-001/Bai16-20201026T121224Z-001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tài liệu trên lớp/CNTT - kì 1 năm 3/Hướng đối tượng/New folder/bai18/bai18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tài liệu trên lớp/CNTT - kì 1 năm 3/Hướng đối tượng/New folder/baitapso2/baitapso2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tài liệu trên lớp/CNTT - kì 1 năm 3/Hướng đối tượng/cô vân anh/E18CN-GUI/E18CN-GUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../github/Source-Code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/BaiTapCuoiKHhoa_JavaCore/BaiTapCuoiKHhoa_JavaCore/BaiTapCuoiKHhoa_JavaCore.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/BaiTapCuoiKHhoa_JavaCore/BaiTapCuoiKHhoa_JavaCore/QuanLySinhVien.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/BaiTapCuoiKHhoa_JavaCore/BaiTapCuoiKHhoa_JavaCore/QuanLySinhVien/QuanLySinhVien/HUONG DAN.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/BaiTapCuoiKHhoa_JavaCore/BaiTapCuoiKHhoa_JavaCore/QuanLySinhVien/QuanLySinhVien/QLSV.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/BaiTapCuoiKHhoa_JavaCore/BaiTapCuoiKHhoa_JavaCore/QuanLySinhVien/QuanLySinhVien/data/diem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/BaiTapCuoiKHhoa_JavaCore/BaiTapCuoiKHhoa_JavaCore/QuanLySinhVien/QuanLySinhVien/data/monhoc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/BaiTapCuoiKHhoa_JavaCore/BaiTapCuoiKHhoa_JavaCore/QuanLySinhVien/QuanLySinhVien/data/monhoc_en.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/BaiTapCuoiKHhoa_JavaCore/BaiTapCuoiKHhoa_JavaCore/QuanLySinhVien/QuanLySinhVien/data/sinhvien.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/BaiTapCuoiKHhoa_JavaCore/BaiTapCuoiKHhoa_JavaCore/QuanLySinhVien/QuanLySinhVien/data/sinhvien_en.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Bai_cuoi_khoa/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Bai_cuoi_khoa/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Bai_cuoi_khoa/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Bai_cuoi_khoa/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Bai_cuoi_khoa/bin/controller/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Bai_cuoi_khoa/bin/exceptions/HandlerException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Bai_cuoi_khoa/bin/model/DataIO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Bai_cuoi_khoa/bin/model/Diem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Bai_cuoi_khoa/bin/model/MonHoc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Bai_cuoi_khoa/bin/model/SinhVien.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Bai_cuoi_khoa/bin/view/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Bai_cuoi_khoa/src/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Bai_cuoi_khoa/src/exceptions/HandlerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Bai_cuoi_khoa/src/model/DataIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Bai_cuoi_khoa/src/model/Diem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Bai_cuoi_khoa/src/model/MonHoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Bai_cuoi_khoa/src/model/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Bai_cuoi_khoa/src/view/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Day10_Thread.rarr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java android/NguyenBaoTrung_Java55_Day8_Collections.rarr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/CN.OUT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/MH.INP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/MONHOC.INP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/NHOM.OUT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/NHOMMH.OUT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/NguyenBaoTrung.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/SACH.INP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/SAPXEP.OUT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/SV.INP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/SV.OUT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/SXH.OUT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/SXMH.OUT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/SXSACH.OUT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai01/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai02/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai03/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai03/Rectange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai04/Main04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai04/StackOfIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai05/Main05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai06/Main06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai07/Main07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai07/StackOfChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai08/Main08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai09/Main09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai10/Main10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai10/MyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai11/Main11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai12/Main12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai12/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai13/Main13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai13/Phanso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai14/Main14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai14/SoPhuc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai15/DanhSachSinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai15/IOFileSinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai15/Main15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai15/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai16/DanhSachMatHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai16/IOFileMatHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai16/Main16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai16/MatHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai17/DachSachCuonSach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai17/IOFileOfSach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai17/Main17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai17/Sach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai18/DanhSachMonHoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai18/IOfFileMonHoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai18/Main18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/bai18/MonHoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/NguyenBaoTrung/src/baitap2/function/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/Testcode/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/Testcode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/Testcode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/Testcode/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/Testcode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/Testcode/Testcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/Testcode/haha.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/Testcode/src/testttt/JFrameDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/Testcode/src/testttt/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/Testcode/src/testttt/aaa.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/Testcode/src/testttt/aaa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/Testcode/src/testttt/chooseColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/sinhvien_en.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sinhvien_en.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+  </component>
+  <component name="ProjectId" id="1sG9bD7742kU0KeC1X1zy8J6Tnx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1042193-5cb4-480b-9daf-760204d2ef71" name="Default Changelist" comment="" />
+      <created>1620488130694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620488130694</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1620488139359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620488139359" />
+  </component>
+</project>
