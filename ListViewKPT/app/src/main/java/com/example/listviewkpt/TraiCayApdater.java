@@ -44,8 +44,11 @@ public class TraiCayApdater extends BaseAdapter {
         TextView txtTen = convertView.findViewById(R.id.textviewTen);
         TextView txtMota = convertView.findViewById(R.id.textviewMota);
         ImageView imgAnh = convertView.findViewById(R.id.imageViewAnh);
-
-        return null;
+        TraiCay traiCay = traiCayList.get(position);
+        txtTen.setText(traiCay.getTen());
+        txtMota.setText(traiCay.getMoTa());
+        imgAnh.setImageResource(traiCay.getHinh());
+        return convertView;
 
     }
 }
