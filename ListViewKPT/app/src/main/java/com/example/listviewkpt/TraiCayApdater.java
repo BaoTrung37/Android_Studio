@@ -36,18 +36,33 @@ public class TraiCayApdater extends BaseAdapter {
         return 0;
     }
 
+    private class ViewHolder{
+        TextView txtTen,txtMota;
+        ImageView imgAnh;
+    }
+
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
-        LayoutInflater layoutInflater = (LayoutInflater) context.getSystemService(
-                Context.LAYOUT_INFLATER_SERVICE);
-        convertView = layoutInflater.inflate(layout,null);
-        TextView txtTen = convertView.findViewById(R.id.textviewTen);
-        TextView txtMota = convertView.findViewById(R.id.textviewMota);
-        ImageView imgAnh = convertView.findViewById(R.id.imageViewAnh);
+        ViewHolder viewHolder;
+        if(convertView == null){
+            LayoutInflater layoutInflater = (LayoutInflater) context.getSystemService(
+                    Context.LAYOUT_INFLATER_SERVICE);
+            convertView = layoutInflater.inflate(layout,null);
+            viewHolder = new ViewHolder();
+            // anh xa
+            viewHolder.txtTen = convertView.findViewById(R.id.textviewTen);
+            viewHolder.txtMota = convertView.findViewById(R.id.textviewMota);
+            viewHolder.imgAnh = convertView.findViewById(R.id.imageViewAnh);
+            convertView.setTag(viewHolder);
+        }
+        else {
+            viewHolder = (ViewHolder) convertView.getTag();
+        }
+
         TraiCay traiCay = traiCayList.get(position);
-        txtTen.setText(traiCay.getTen());
-        txtMota.setText(traiCay.getMoTa());
-        imgAnh.setImageResource(traiCay.getHinh());
+        viewHolder.txtTen.setText(traiCay.getTen());
+        viewHolder.txtMota.setText(traiCay.getMoTa());
+        viewHolder.imgAnh.setImageResource(traiCay.getHinh());
         return convertView;
 
     }
